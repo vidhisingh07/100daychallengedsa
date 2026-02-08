@@ -1,5 +1,4 @@
 //Problem: Implement linear search to find key k in an array. Count and display the number of comparisons performed.
-
 // Input:
 // - First line: integer n (array size)
 // - Second line: n space-separated integers
