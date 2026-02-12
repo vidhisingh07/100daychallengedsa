@@ -19,6 +19,5 @@ int** transpose(int** matrix, int matrixSize, int* matrixColSize, int* returnSiz
             result[j][i] = matrix[i][j];
         }
     }
-
     return result;
 }

@@ -85,6 +85,5 @@ int main() {
             printf("%d ", sum[i][j]);
         }
     }
-
     return 0;
 }
